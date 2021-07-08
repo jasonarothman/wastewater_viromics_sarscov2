@@ -1,4 +1,4 @@
-# wastewater_sarscov2
+# wastewater_viromics_sarscov2
 
 This repository contains representative code and scripts used to analyze data included in the manuscript "Southern California wastewater RNA viromics and SARS-CoV-2 sequencing."
 
