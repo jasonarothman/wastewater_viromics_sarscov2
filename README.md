@@ -1,6 +1,6 @@
 # wastewater_viromics_sarscov2
 
-This repository contains representative code and scripts used to analyze data included in the manuscript "Southern California wastewater RNA viromics and SARS-CoV-2 sequencing."
+This repository contains representative code and scripts used to analyze data included in the manuscript "Southern California wastewater RNA viromics and SARS-CoV-2 sequencing." This has now been published in a peer-reviewed journal, Applied and Environmental Microbiology. https://journals.asm.org/doi/10.1128/AEM.01448-21
 
 "github_R_scripts" contains R scripts used to analyze the data and generate figures.
 
